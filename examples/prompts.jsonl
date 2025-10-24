@@ -1,0 +1,3 @@
+{"id": "gsm8k-1", "question": "Liam reads 12 pages a day. After 5 days, how many pages has he read?", "answer": "60", "distractors": ["50", "55"]}
+{"id": "gsm8k-2", "question": "A recipe needs 3 eggs per cake. How many eggs are needed for 4 cakes?", "answer": "12", "distractors": ["16", "9"]}
+{"id": "gsm8k-3", "question": "Sara saves $5 each week. After 7 weeks, how much has she saved?", "answer": "35", "distractors": ["30", "28"]}
